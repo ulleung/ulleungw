@@ -1,0 +1,21 @@
+# intellij
+.idea/
+*.iml
+
+# go remote modules
+src/
+pkg/
+
+# test files
+*.java
+*.uln
+*.dok
+doklist
+
+# binary
+build/
+*.exe
+
+# misc
+transpiler/
+compiler/
